@@ -1,23 +1,23 @@
 ---
-title: Second lecture
+title: The Store's Real Floor Plan
 description:
-  Week 2 — the first substantive material, and the run-up to the first review
+  Why the shortest path to what you need is never the path the aisles give
+  you
 week: 2
 date: 2027-03-01
 teachers:
   - idris-fenn
 related:
-  - sessions/02-first-review
-  - assessments/assignment-1
+  - sessions/02-the-route
 ---
 
-<!-- STARTER_CONTENT: replace this lecture, then remove this comment. -->
-
-Replace this page. It exists so the lectures listing sorts by week and the
-related block has more than one edge to draw.
+Every printed floor plan lies by omission: it shows where things are, not
+the path you're forced to take to reach them. We read the aisle order as a
+strategy imposed on a body it doesn't know, and your habitual route as the
+tactic that body improvises in return.
 
 ## Outline
 
-- the first substantive material, and where it shows up in practice
-- what the first review is looking for
-- reading before next week
+- strategy versus tactic, applied to a real store's floor plan
+- why milk lives at the back in nearly every supermarket you've entered
+- what the detour costs you, in steps and in attention

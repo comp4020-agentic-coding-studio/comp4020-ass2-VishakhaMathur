@@ -1,30 +1,24 @@
 ---
-title: Opening lecture
+title: Nothing Welcomes You
 description:
-  The first lecture — what the course is, why it is shaped this way, and what
-  happens in week 1
+  What the automatic door is actually doing, and why the semester starts
+  here instead of at the shelves
 week: 1
 date: 2027-02-22
 teachers:
   - marisol-quaye
 slides: /decks/week-01/
 related:
-  - sessions/01-getting-started
+  - sessions/01-the-threshold
 ---
 
-<!-- STARTER_CONTENT: replace this lecture, then remove this comment. -->
-
-Replace this page. A lecture entry says what was covered and links to the pages
-that own the detail, so the lecture stays short and nothing is explained twice.
-
-The `related:` ref above is a graph edge: it renders on this page and on the
-session's, so declare a connection once, on whichever side is convenient.
-
-The page renders its `slides:` link automatically. Decks are markdown too,
-under `src/decks/`; the path is part of the lecture's API metadata.
+The door is the store's first move, and it makes that move before you have
+decided to buy anything. This lecture sets the method the rest of the
+semester repeats: find the mechanism, then ask whose interest it serves.
 
 ## Outline
 
-- what the course is for
-- how the weeks are shaped
-- what to do before the first session
+- the automatic door as triage, not hospitality
+- Debord's spectacle and de Certeau's strategies vs. tactics, introduced
+  together
+- the method: mechanism first, judgement second
