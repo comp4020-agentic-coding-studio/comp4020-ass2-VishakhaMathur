@@ -1,8 +1,8 @@
 ---
 title: Idris Fenn
 description:
-  A tutor working across the course's first reviews and the practical work that
-  follows them.
+  Tutor. Runs the fieldwork weeks and reads every dérive report against the
+  actual store it claims to describe.
 affiliation: Slop University School of Invented Disciplines
 role: tutor
 email: idris.fenn@slop.university
@@ -11,7 +11,11 @@ photo: ./idris-fenn.avif
 photoAlt: A stylised portrait of a person facing the viewer, flat gold and black shapes on warm cream, in a two-ink risograph print
 ---
 
-<!-- STARTER_CONTENT: replace this person entry, then remove this comment. -->
+Idris runs the sessions that send students into stores rather than keeping
+them in the room, and marks the dérive reports that come back. His standing
+rule for a first draft: if the report would still make sense with the store
+swapped for a different one, it hasn't looked closely enough at the one it
+claims to be about.
 
-Replace this entry. A second person makes the listing, role ordering and
-teacher-reference fields visible before you replace the cast with your own.
+Reachable by email between sessions, though he reads slower than he answers
+in class.
