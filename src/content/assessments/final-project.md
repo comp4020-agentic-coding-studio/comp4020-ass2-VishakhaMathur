@@ -10,18 +10,18 @@ marking:
   mode: holistic
   description:
     Judged as a whole against the brief — whether the counter-map stands on
-    its own without the semester there to explain it, whether it uses more
-    than one of the twelve mechanisms as evidence rather than illustration,
-    and whether its scope fits a project built in the second half of a
-    thirteen-week semester rather than a full year of fieldwork.
+    its own without the semester there to explain it, whether it integrates
+    at least four of the twelve mechanisms as structural evidence, and
+    whether its scope fits a project built in the closing weeks of a
+    twelve-week semester rather than a full year of fieldwork.
 spec:
-  - a counter-map of one store — a document that reroutes, relabels or
-    otherwise détournes its real layout, not a diagram of the layout as it
-    stands
-  - it draws on at least four of the semester's twelve mechanisms, named as
-    it uses them
-  - it stands alone — a reader who never saw the dérive report can follow the
-    argument from this document by itself
+  - A counter-map of a single store. It actively reroutes, relabels or
+    détournes a physical layout — a standard, descriptive floor plan fails.
+  - Integrates a minimum of four mechanisms from the twelve teaching weeks,
+    explicitly named and deployed as evidence.
+  - Total standalone legibility. A marker who has not read your previous
+    dérive report must be able to follow the map's argument completely
+    cold.
 related:
   - assignment-1
   - sessions/12-the-exit

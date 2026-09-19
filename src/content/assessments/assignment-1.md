@@ -45,6 +45,26 @@ enough at any of them.
 ## What you submit
 
 A written report, 800–1200 words, with your photographs, sketches or field
-notes attached as evidence rather than decoration. Cite the week each
-mechanism came from — "the fresh wall (week 6)" is a citation, "the layout
-felt manipulative" is not.
+notes attached as evidence rather than decoration. If your store is
+invented, your evidence must be sketched, structurally mapped, or generated
+rather than photographed. Cite the week each mechanism came from — "the
+fresh wall (week 6)" is a citation, "the layout felt manipulative" is not.
+
+## Essential Reading
+
+Three texts, non-negotiable. Read them before you drift, not after, or the
+report will read like a tourist's diary with theory bolted on afterward.
+
+- **Guy Debord, "Theory of the Dérive" (1958).** Four pages, and every
+  syllabus that claims "psychogeography" since is a footnote to them. Skip
+  it and you will wander with a destination in mind, which is not a dérive,
+  it's an errand.
+- **Georges Perec, *An Attempt at Exhausting a Place in Paris* (1975).**
+  Perec sat in one square for three days and refused to decide, in advance,
+  which parts of it were worth writing down. Read it before you start
+  editing your store for interest — Perec already ruled nothing out.
+- **Marc Augé, *Non-Places: Introduction to an Anthropology of
+  Supermodernity* (1992).** The concept your car park is already living in,
+  four weeks before the course names it for you in week eleven. Read it now
+  and your report will recognise a non-place on sight; skip it and you'll
+  mistake it for déjà vu.
