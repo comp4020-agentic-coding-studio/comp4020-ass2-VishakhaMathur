@@ -42,7 +42,7 @@ export const slopCourseMetaSchema = z
 // navigation label and /api/index.json all read this object.
 export const courseMeta = slopCourseMetaSchema.parse({
   code: "SLOP2236",
-  title: "Psychogeography of the Supermarkets",
+  title: "Psychogeography of the Supermarket",
   session: "Semester 1",
   year: 2027,
   level: 2,
@@ -50,7 +50,8 @@ export const courseMeta = slopCourseMetaSchema.parse({
   endDate: "2027-05-28",
   description:
     "The supermarket is a designed terrain, not a shop. Twelve weeks of " +
-    "dérive, inventory and détournement turn its aisles, queues and " +
-    "loyalty schemes into a site to read, and to resist.",
+    "structured drift, exhaustive observation, and critical mapping turn " +
+    "its aisles, queues and loyalty schemes into a site to read, and to " +
+    "resist.",
   tags: ["psychogeography", "retail", "situationism"],
 }) satisfies CourseMetaInput;
